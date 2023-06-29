@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blc/static/css/main.f25b2e2e.css",
+    "main.js": "/blc/static/js/main.fc4e76e5.js",
+    "static/js/787.9b74a6fb.chunk.js": "/blc/static/js/787.9b74a6fb.chunk.js",
+    "static/media/wood.png": "/blc/static/media/wood.1c66084cdcff5c8aa193.png",
+    "static/media/steelwork.jpg": "/blc/static/media/steelwork.0448dd53f93e18382dc6.jpg",
+    "static/media/steelwork2.jpg": "/blc/static/media/steelwork2.9a79eb8d65bba16f3fb6.jpg",
+    "static/media/deck.jpg": "/blc/static/media/deck.391cdd44bf374e7b4921.jpg",
+    "static/media/fence2.png": "/blc/static/media/fence2.abe097dc40490f930326.png",
+    "static/media/fence1.png": "/blc/static/media/fence1.950c033b3c486f4beeba.png",
+    "static/media/fence3.png": "/blc/static/media/fence3.db172351b3dec7746c06.png",
+    "index.html": "/blc/index.html",
+    "main.f25b2e2e.css.map": "/blc/static/css/main.f25b2e2e.css.map",
+    "main.fc4e76e5.js.map": "/blc/static/js/main.fc4e76e5.js.map",
+    "787.9b74a6fb.chunk.js.map": "/blc/static/js/787.9b74a6fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25b2e2e.css",
+    "static/js/main.fc4e76e5.js"
+  ]
+}
